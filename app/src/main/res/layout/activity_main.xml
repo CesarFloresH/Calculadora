@@ -30,8 +30,7 @@
             android:textSize="50sp"
             android:verticalScrollbarPosition="right"
             tools:ignore="SpeakableTextPresentCheck"
-            android:importantForAutofill="no"
-            android:inputType="TODO"></EditText>
+            android:importantForAutofill="no"></EditText>
 
         <EditText
             android:id="@+id/result"
@@ -48,7 +47,6 @@
             android:textColor="#D1CECE"
             android:textSize="25sp"
             tools:ignore="SpeakableTextPresentCheck"
-            android:inputType="TODO"
             android:importantForAutofill="no"></EditText>
     </LinearLayout>
 
